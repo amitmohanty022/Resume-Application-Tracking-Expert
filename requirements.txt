@@ -1,4 +1,3 @@
-streamlit
-google-generativeai
-python-dotenv
-pdf2image
+streamlit>=1.50
+google-genai>=1.0
+python-dotenv>=1.2
